@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Inspirational Quote Generator",
+  "description": "A simple and elegant web application that generates inspirational quotes using the Gemini API. Get a dose of motivation with a single click.",
+  "requestFramePermissions": []
+}
